@@ -8,6 +8,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
-    
+    <nav></nav>
+    <main>
+        <h1>Dim-sähkö</h1>
+    </main>
+    <footer>
+        <p>Testi</p>
+    </footer>
 </body>
 </html>
