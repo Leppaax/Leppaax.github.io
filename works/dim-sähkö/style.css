@@ -4,13 +4,37 @@
     --bg: #272727;
     --nav: #424242;
     --highlight: #fddb3a;
-    --text_color: #f6f4e6;
+    --text_color: #ffffff;
+    --darker-text: #c7c7c7;
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+h1 {
+    padding: 20px;
+    font-size: 70px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    color: var(--text_color);
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0px var(--darker-text),
+                 1px 2px 0px var(--darker-text),
+                 1px 3px 0px var(--darker-text),
+                 1px 4px 0px var(--darker-text),
+                 1px 5px 0px var(--darker-text),
+                 1px 6px 0px var(--darker-text),
+                 1px 10px 5px rgba(16, 16, 16, 0.5),
+                 1px 15px 10px rgba(16, 16, 16, 0.4),
+                 1px 20px 30px rgba(16, 16, 16, 0.3),
+                 1px 25px 50px rgba(16, 16, 16, 0.2);
 }
 
 body {

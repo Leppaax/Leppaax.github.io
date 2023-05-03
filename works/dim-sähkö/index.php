@@ -15,8 +15,6 @@
         <a href="#">edelliset työt</a>
         <a href="#">Tarina</a>
         <a href="#">koti</a>
-        <!-- <a href="https://www.pornhub.com">Venlan kiima nappula</a> -->
-        <div class="dot"></div>
     </nav>
     <main>
         <h1>Dim-sähkö</h1>
